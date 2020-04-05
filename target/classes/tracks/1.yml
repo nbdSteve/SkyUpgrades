@@ -1,0 +1,27 @@
+max-tier: 2
+
+tiers:
+  1:
+    item: 'WOODEN_PICKAXE'
+    data-value: 0
+    name: '&cStarting Pickaxe'
+    lore:
+      - '&cEfficiency 1'
+    enchantments:
+      - dig_speed:1
+    item-flags:
+      - hide_enchants
+    unbreakable: true
+    cost: 10000.0
+  2:
+    item: 'WOODEN_PICKAXE'
+    data-value: 0
+    name: '&cStarting Pickaxe'
+    lore:
+      - '&cEfficiency 2'
+    enchantments:
+      - dig_speed:2
+    item-flags:
+      - hide_enchants
+    unbreakable: true
+    cost: 12000.0

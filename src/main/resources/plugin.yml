@@ -1,0 +1,13 @@
+name: SkyUpgrades
+version: ${project.version}
+main: gg.steve.skyupgrades.SkyUpgrades
+api-version: 1.13
+prefix: Upgrade
+authors: [stevegoodhill]
+description: Upgrades plugin for the Sky Mines prison server
+website: http://steve.gg
+commands:
+  upgrade:
+    usage: /<command>
+    description: Base command for SkyUpgrades.
+    aliases: [upgrades]

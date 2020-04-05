@@ -1,0 +1,6 @@
+number-of-tracks: 1
+
+admin-perms:
+  reload: sky-upgrades.reload
+  help: sky-upgrades.help
+  give: sky-upgrades.give

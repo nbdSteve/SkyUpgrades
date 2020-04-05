@@ -1,0 +1,34 @@
+permission-debug:
+  - '&d&lSystem &7• You do not have permission (&e{permission-node}&7) to use that.'
+
+command-debug:
+  - '&d&lSkyUpgrades &7• There was a problem with the command you entered, please read the reason.'
+  - '&d&lReason &7• &e{reason}&7.'
+
+help:
+  - '&d&lSkyUpgrades &7• Please dm nbdSteve or ImCasperr for help with this plugin.'
+
+reload:
+  - '&d&lSkyUpgrades &7• You have successfully reloaded all files and maps.'
+
+give-tool-receiver:
+  - '&d&lSystem &7• You have received a tier &e{tier} &7tool from track &e{track}&7.'
+
+give-tool-giver:
+  - '&d&lSkyUpgrades &7• You have given &f{player} a tier &e{tier} &7tool from track &e{track}&7.'
+
+insufficient:
+  - '&d&lSystem &7• &cYou do not have sufficient funds to upgrade your tool&7.'
+
+invalid-tool:
+  - '&d&lSystem &7• &cThat tool can not be upgraded&7.'
+
+max-tier:
+  - '&d&lSystem &7• &cThat tool can not be upgraded because it is already at the maximum tier&7.'
+
+upgrade-success:
+  - "&7 "
+  - "&7&o (( &fYou upgraded to {tier_item_name} &7&o)) "
+  - "&7 "
+  - "&f&l   STATS"
+  - "&f&l    - {tier_item_lore}"
