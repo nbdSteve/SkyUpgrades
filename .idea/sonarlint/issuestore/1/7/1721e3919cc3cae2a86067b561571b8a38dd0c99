@@ -1,8 +1,8 @@
 
 dsquid:CallToDeprecatedMethodk"5Remove this use of "setDurability"; it is deprecated.(ÏÕëï8ğ¼“Ú”.
 \squid:CallToDeprecatedMethodj"5Remove this use of "getDurability"; it is deprecated.(É—À6
-Ysquid:CallToDeprecatedMethod("1Remove this use of "ItemStack"; it is deprecated.(‚¼é«
 bsquid:CallToDeprecatedMethod"5Remove this use of "getDurability"; it is deprecated.(“Ïışÿÿÿÿ
-rsquid:UselessImportCheck"BRemove this unused import 'gg.steve.skyupgrades.nbt.NBTContainer'.(™«“Şÿÿÿÿÿ8õÙÚ”.
 ^squid:CallToDeprecatedMethodH"1Remove this use of "getByName"; it is deprecated.(·éÁ˜üÿÿÿÿ
+Ysquid:CallToDeprecatedMethod("1Remove this use of "ItemStack"; it is deprecated.(‚¼é«
 ^squid:CallToDeprecatedMethodJ"1Remove this use of "getByName"; it is deprecated.(ÆßÀïüÿÿÿÿ
+rsquid:UselessImportCheck"BRemove this unused import 'gg.steve.skyupgrades.nbt.NBTContainer'.(™«“Şÿÿÿÿÿ8õÙÚ”.

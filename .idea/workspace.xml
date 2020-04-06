@@ -6,7 +6,17 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5856b8f-0f0f-4ee1-9659-2664efe09213" name="Default Changelist" comment="" />
+    <list default="true" id="a5856b8f-0f0f-4ee1-9659-2664efe09213" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/1721e3919cc3cae2a86067b561571b8a38dd0c99" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/1721e3919cc3cae2a86067b561571b8a38dd0c99" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/2959d15a877c82d7d8fdc26df308b0f1cbfa69ab" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/2959d15a877c82d7d8fdc26df308b0f1cbfa69ab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8a9866fa1395b452eaef4eabfb3141aa80b4d3d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8a9866fa1395b452eaef4eabfb3141aa80b4d3d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gg/steve/skyupgrades/cmd/BaseCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gg/steve/skyupgrades/cmd/BaseCmd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gg/steve/skyupgrades/core/UpgradeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gg/steve/skyupgrades/core/UpgradeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SkyUpgrades-0.0.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SkyUpgrades-0.0.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-SkyUpgrades-0.0.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-SkyUpgrades-0.0.2.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,22 +119,22 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2685" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/3840.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586098273692" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1586105886832">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1586137997927">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586105886832" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1586105886832">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586137997927" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1586137997927">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/3840.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586105886832" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1586105886831">
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/3840.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586137997927" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1586137997927">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/3840.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586105886831" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1586105886832">
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/3840.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586137997927" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1586137997927">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/3840.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586105886832" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/3840.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586137997927" />
     <state x="2410" y="195" key="Maven.ArtifactSearchDialog" timestamp="1586102103627">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -133,6 +143,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2381" y="183" key="SettingsEditor/0.0.1920.1040/3840.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586100539831" />
+    <state x="2551" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586137665928">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2551" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/3840.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586137665928" />
     <state x="2559" y="124" width="642" height="831" key="find.popup" timestamp="1586097536950">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>

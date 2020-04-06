@@ -22,7 +22,7 @@ public class UpgradeUtil {
             give(config, section, track, tier, target);
             List<String> msg = FileManager.get("lang").getStringList("upgrade-success");
             for (int i = 0; i < msg.size() - 1; i++) {
-                target.sendMessage(ColorUtil.colorize(msg.get(i)));
+                target.sendMessage(ColorUtil.colorize(msg.get(i).replace("{tier_item_name}", config.getString(section + "name"))));
             }
             for (String line : config.getStringList(section + "lore")) {
                 if (line.length() < 1) continue;

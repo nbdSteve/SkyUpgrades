@@ -15,12 +15,18 @@ public class BaseCmd implements CommandExecutor {
         if (command.getName().equalsIgnoreCase("upgrade")) {
             if (args.length == 0) {
                 UpgradeCmd.upgrade(sender);
-            } else if (args.length == 4) {
+            } else if (args.length == 1) {
                 if (args[0].equalsIgnoreCase("h") || args[0].equalsIgnoreCase("help")) {
                     HelpCmd.help(sender);
                 } else if (args[0].equalsIgnoreCase("r") || args[0].equalsIgnoreCase("reload")) {
                     ReloadCmd.reload(sender);
                 } else if (args[0].equalsIgnoreCase("g") || args[0].equalsIgnoreCase("give")) {
+                    GiveCmd.give(sender, args);
+                } else {
+                    MessageUtil.commandDebug(sender, "The base argument is invalid, try: help, reload or give");
+                }
+            } else if (args.length == 4) {
+                if (args[0].equalsIgnoreCase("g") || args[0].equalsIgnoreCase("give")) {
                     GiveCmd.give(sender, args);
                 } else {
                     MessageUtil.commandDebug(sender, "The base argument is invalid, try: help, reload or give");
